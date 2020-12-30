@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+# /pesanduluan
 .env
 .env.backup
 .phpunit.result.cache
